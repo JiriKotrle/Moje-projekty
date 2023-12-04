@@ -55,7 +55,7 @@ elif (int(cislo_textu) - 1) < 1 and (int(cislo_textu) - 1) > 2:
 else:
     vybrany_text = TEXTS[int(cislo_textu) - 1]
 
-
+# jjjjj
 upraveny_text = vybrany_text.split() # metoda split() rozdělí řetězec na jednotlivá slova a uloží je do seznamu
 print(upraveny_text)
 
