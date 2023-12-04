@@ -31,6 +31,7 @@ in modern oceans. Other fish such as paddlefish,
 garpike and stingray are also present.'''
 ]
 
+#ppppp
 
 user_password = {'bob':'123', 'ann':'pass123', 'mike':'password123', 'liz':'pass123'}
 
@@ -55,7 +56,6 @@ elif (int(cislo_textu) - 1) < 1 and (int(cislo_textu) - 1) > 2:
 else:
     vybrany_text = TEXTS[int(cislo_textu) - 1]
 
-# jjjjj
 upraveny_text = vybrany_text.split() # metoda split() rozdělí řetězec na jednotlivá slova a uloží je do seznamu
 print(upraveny_text)
 
