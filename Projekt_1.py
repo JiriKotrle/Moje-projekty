@@ -31,8 +31,6 @@ in modern oceans. Other fish such as paddlefish,
 garpike and stingray are also present.'''
 ]
 
-#ppppp
-
 user_password = {'bob':'123', 'ann':'pass123', 'mike':'password123', 'liz':'pass123'}
 
 jmeno = str(input('zadej jmeno: '.upper()))
