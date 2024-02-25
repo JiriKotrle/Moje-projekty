@@ -1,0 +1,4 @@
+název: prvni, autor: kk, rok: 1234, kopie: 5
+název: druha, autor: lk, rok: 2012, kopie: 87
+název: treti, autor: jk, rok: 5477, kopie: 0
+název: ctvrta, autor: hg, rok: 2013, kopie: 100
